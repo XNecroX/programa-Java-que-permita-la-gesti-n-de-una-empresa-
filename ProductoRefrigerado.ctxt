@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=fechaCaducidad\ numeroLote
+comment0.target=ProductoRefrigerado(java.lang.String,\ java.lang.String)
+comment1.params=codigo
+comment1.target=void\ setCodigoSupervisionAlimentaria(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCodigoSupervisionAlimentaria()
+comment3.params=temperatura
+comment3.target=void\ setTemperaturaRecomendada(double)
+comment4.params=
+comment4.target=double\ getTemperaturaRecomendada()
+numComments=5

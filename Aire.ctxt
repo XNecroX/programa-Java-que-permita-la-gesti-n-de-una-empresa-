@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=porcentaje
+comment0.target=void\ PorNitrogeno(double)
+comment1.params=porcentaje
+comment1.target=void\ PorOxigeno(double)
+comment2.params=porcentaje
+comment2.target=void\ PorCO2(double)
+comment3.params=porcentaje
+comment3.target=void\ PorVaporDeAgua(double)
+numComments=4

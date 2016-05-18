@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=fechaCaducidad\ numeroLote
+comment0.target=ProductoFresco(java.lang.String,\ java.lang.String)
+comment1.params=fecha
+comment1.target=void\ setFechaEnvasado(java.lang.String)
+comment2.params=pais
+comment2.target=void\ setPaisDeOrigen(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getFechaEnvasado()
+comment4.params=
+comment4.target=java.lang.String\ getPaisDeOrigen()
+numComments=5

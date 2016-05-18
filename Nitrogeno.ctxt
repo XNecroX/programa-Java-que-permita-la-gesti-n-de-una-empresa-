@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=MetodoDeCongelacion
+comment0.target=void\ setMetodoDeCongelacion(java.lang.String)
+comment1.params=TiempoDeEsposicion
+comment1.target=void\ setTiempoDeEsposicion(double)
+numComments=2
