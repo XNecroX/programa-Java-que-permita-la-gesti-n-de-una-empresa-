@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Programa de administracion de Una Empresa AgroAlimentaria
+PURPOSE OF PROJECT: Compartir
+VERSION or DATE: v1.0
+HOW TO START THIS PROJECT: 
+AUTHORS: Alejandro Escandon Sanchez
+USER INSTRUCTIONS: descagar, descomprime y desde BlueJ Abre el proyecto
