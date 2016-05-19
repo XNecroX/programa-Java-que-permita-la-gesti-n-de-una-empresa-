@@ -1,5 +1,5 @@
 /**
- * Este Programa fue desarrollado por (Necro)
+ * Este Programa fue desarrollado por (Alejandro Escandon Sanchez)
  * version v1.0
  */
 public class Main {

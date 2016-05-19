@@ -10,8 +10,8 @@ public class ProductoRefrigerado extends Producto {
        
     public ProductoRefrigerado(String fechaCaducidad, String numeroLote){
         super(fechaCaducidad, numeroLote);
-        codigoSupervisionAlimentaria = "codigo";
-         fechaDeEnvasado = "Fecha";
+        codigoSupervisionAlimentaria = "L000000";
+         fechaDeEnvasado = "00-00-000";
          paisDeOrigen = "Pais";
          
     }

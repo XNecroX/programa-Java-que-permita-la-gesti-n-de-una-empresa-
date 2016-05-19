@@ -1,5 +1,5 @@
 /**
- * Super Clase que tendra solo dos Metodos
+ * Super Clase que tendra solo dos Metodos.
  */
 public class Producto {
     String fechaCaducidad, numeroLote;

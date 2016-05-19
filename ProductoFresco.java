@@ -1,17 +1,15 @@
-import java.util.*;
-import javax.swing.*;
-import java.awt.*;
-import java.awt.ActiveEvent;
-import java.awt.event.ActionListener; 
-
+/**
+ * Clase De Productos frescos Heredando de Producto
+ */
 public class ProductoFresco extends Producto {
-    private String fechaEnvasado, paisDeOrigen;
+    private String fechaEnvasado;
+    private String paisDeOrigen;
     
   
     public ProductoFresco(String fechaCaducidad, String numeroLote){
         super(fechaCaducidad, numeroLote);
-        fechaEnvasado = "13/09/1990";
-        paisDeOrigen = "Narnia";
+        fechaEnvasado = "00-00-000";
+        paisDeOrigen = "pais";
     }
      
     public void setFechaEnvasado(String fecha){

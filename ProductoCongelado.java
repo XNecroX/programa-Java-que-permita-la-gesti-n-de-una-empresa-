@@ -1,9 +1,7 @@
 /**
- * Clase que hereda de Producto que Implementa de Aire agua y Nitrogeno
+ * Clase De Productos Congelados que Hereda de 'Producto' que Implementa de Aire agua y Nitrogeno
  */
-import java.util.*;
-import javax.swing.*;
-import java.awt.*;
+
 public class ProductoCongelado extends Producto implements Aire, Agua, Nitrogeno 
 {
     private double TemperaturaRecomendada;
